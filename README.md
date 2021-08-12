@@ -1,36 +1,32 @@
 # Plump
 
+## The App
 
-Regler för Plump:
+The app is created using React native and will be used as a scoring system when playing Plump with physical cards.
 
-Hur spelar man Plump?
-Plump är ett roligt kortspel för 2+ spelare. Spelet går ut på att lyckas ta det antal stick man förutspått från början.
+### Tech-Stack
 
-Förberedelser
-Man behöver ett spelprotokoll och en vanlig kortlek om 52 kort.
-Protokollet kan se ut som längst ner på sidan.
+- React native<br/>
+- TypeScript<br/>
+- Redux<br/>
 
-Grundregler
-Spelets gång
-Man måste alltid följa färg. Saknar man kort i den färg som lagts får man lägga vilket kort man vill.
-Om man misslyckas sätts det en så kallad “plump” i spelprotokollet, därav namnet på kortspelet.
-Att ta ett stick betyder att man har högsta kortet av de som är utlagda. Eller att man lagt en färg som ingen annan spelare har. Det är därför väldigt bra att ha många kort av samma kulör.
+## Rules for Plump:
 
-1 kort
-Första omgången får alla spelare 10 kort vardera. Därefter börjar spelarna (medsols) att gissa hur många stick dessa tror att de kommer ta under denna spelrunda. Man får tippa på allt mellan 10 och 0 stick.
-Antalet förutspådda stick får aldrig gå jämnt ut på spelprotokollet. Sista spelaren kan alltså inte alltid välja det han vill. (EX om 3 spelare: Spelare 1 tippar på 5 stick, spelare 2 på 5 stick, spelare 3 får ej välja 0 stick)
-Efter att rundan spelats klart tittar man vilka som lyckats ta exakt så många stick de förutspått.
-Om en spelare lyckats får denne en etta framför antalet stick. Se protokoll längst ner på sidan.
+How to play Plump?<br/>
+Plump is a fun card game for 2+ players. The game is about succeeding in taking the number of sticks you predicted from the beginning.
 
-Spelrundorna fortsätter nu med ett färre kort per gång, enligt spelprotokollet.
+Preparations<br/>
+You need a game protocol and a standard deck of 52 cards. The protocol can look like the bottom of the page.
 
-Vinnare
-När det är dags för en omgång med endast ett kort per person finns det flera olika varianter.
-Var spelare får titta på sitt kort och avgöra om det ger vinst eller ej (0 eller 1 stick).
-Var spelare håller upp kortet i pannan, utan att titta på det själv.
-Genom att se de andras kort avgör spelaren då om denne tror att det egna kortet är bättre eller sämre.
-Ingen spelare tittar på något kort och alla chansar på 0 eller 1 stick.
+Basic rules of the game<br/>
+You must always follow the color. If you do not have a card in the suit that has been added, you can add any card you want. If you fail, a so-called "plump" is put in the game protocol, hence the name of the card game. Taking a stick means that you have the highest card of those who are laid out. Or that you added a color that no other player has. It is therefore very good to have many cards of the same suit.
 
-I slutet räknas samtliga poäng och den spelare med flest poäng vinner.
+1 card In the first round, all players receive 10 cards each. Then the players (clockwise) start to guess how many sticks they think they will take during this game round. You can bet on anything between 10 and 0 sticks. The number of predicted sticks must never be evenly distributed on the game protocol. The last player can not always choose what he wants. (EX about 3 players: Player 1 bets on 5 sticks, player 2 on 5 sticks, player 3 may not choose 0 sticks) After the round has been played, you see who has managed to take exactly as many sticks as they predicted. If a player succeeds, he gets a one in front of the number of sticks. See minutes at the bottom of the page.
 
-- https://www.spelregler.org/plump-regler/
+The game rounds now continue with fewer cards at a time, according to the game protocol.
+
+Winner When it's time for a round with only one card per person, there are several different variations. Each player can look at their card and decide if it pays or not (0 or 1 stick). Each player holds the card up in the forehead, without looking at it himself. By seeing the other cards, the player then decides whether he thinks his own card is better or worse. No player looks at any card and all chances are 0 or 1 stick.
+
+In the end, all points are counted and the player with the most points wins.
+ 
+https://www.spelregler.org/plump-regler/
