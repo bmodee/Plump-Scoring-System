@@ -6,9 +6,9 @@ The app is created using React native and will be used as a scoring system when 
 
 ### Tech-Stack
 
-*React native
-*TypeScript
-*Redux
+- React native<br/>
+- TypeScript<br/>
+- Redux<br/>
 
 ## Rules for Plump:
 
