@@ -6,9 +6,9 @@ The app is created using React native and will be used as a scoring system when 
 
 ### Tech-Stack
 
-React native
-TypeScript
-Redux
+*React native
+*TypeScript
+*Redux
 
 ## Rules for Plump:
 
@@ -28,5 +28,5 @@ The game rounds now continue with fewer cards at a time, according to the game p
 Winner When it's time for a round with only one card per person, there are several different variations. Each player can look at their card and decide if it pays or not (0 or 1 stick). Each player holds the card up in the forehead, without looking at it himself. By seeing the other cards, the player then decides whether he thinks his own card is better or worse. No player looks at any card and all chances are 0 or 1 stick.
 
 In the end, all points are counted and the player with the most points wins.
-
-- https://www.spelregler.org/plump-regler/
+ 
+https://www.spelregler.org/plump-regler/
